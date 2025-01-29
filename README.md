@@ -140,7 +140,7 @@
     <a href="#contact">Contact</a>
     <a href="#upload">Upload</a>
 </nav>
-<img src="index.2picture/akbar.png." alt="Description of the image" width="1180" height="900" style="display: block; margin: 0 auto;">
+<img src="index.2picture/akbar.png" alt="Description of the image" width="1180" height="900" style="display: block; margin: 0 auto;">
 <div class="container">
     <!-- About Us Section -->
     <section id="about" class="about">
